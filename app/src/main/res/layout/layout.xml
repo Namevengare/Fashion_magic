@@ -9,10 +9,8 @@
         android:id="@+id/eyeIcon"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#e9d2fd"
-        android:src="@drawable/image_22"/>
-
-
+        android:background="#F8E6FF"
+        android:src="@drawable/image6" />
 
     <ProgressBar
         android:id="@+id/loadingSpinner"
@@ -29,7 +27,7 @@
         android:layout_height="50dp"
         android:layout_marginTop="680dp"
         android:layout_centerHorizontal="true"
-        android:background="#e9d2fd"
-        android:src="@drawable/image3"/>
+        android:background="#F8E6FF"
+        android:src="@drawable/image8080"/>
 
 </RelativeLayout>
